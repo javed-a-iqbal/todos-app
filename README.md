@@ -1,9 +1,13 @@
 
 
 npx create-react-app todos-app
+
 npm install bootstrap
+
 npm install react-router-dom
+
 npm install react-router-dom
+
 npm install axios
 
 
